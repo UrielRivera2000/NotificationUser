@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF12A3C-3096-49CC-89B3-EC2E99A3D309}|NotificationService.Infraestructure\\NotificationService.Infrastructure.csproj|c:\\users\\fguerrero\\source\\repos\\notificacionservicemicro\\notificationservice.infraestructure\\persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF12A3C-3096-49CC-89B3-EC2E99A3D309}|NotificationService.Infraestructure\\NotificationService.Infrastructure.csproj|solutionrelative:notificationservice.infraestructure\\persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF12A3C-3096-49CC-89B3-EC2E99A3D309}|NotificationService.Infraestructure\\NotificationService.Infrastructure.csproj|c:\\users\\fguerrero\\source\\repos\\notificacionservicemicro\\notificationservice.infraestructure\\externalservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF12A3C-3096-49CC-89B3-EC2E99A3D309}|NotificationService.Infraestructure\\NotificationService.Infrastructure.csproj|solutionrelative:notificationservice.infraestructure\\externalservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A54D60-A49B-4444-9FF1-ECA0F1732DDF}|NotificationService.Domain\\NotificationService.Domain.csproj|c:\\users\\fguerrero\\source\\repos\\notificacionservicemicro\\notificationservice.domain\\valueobjects\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A54D60-A49B-4444-9FF1-ECA0F1732DDF}|NotificationService.Domain\\NotificationService.Domain.csproj|solutionrelative:notificationservice.domain\\valueobjects\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A54D60-A49B-4444-9FF1-ECA0F1732DDF}|NotificationService.Domain\\NotificationService.Domain.csproj|c:\\users\\fguerrero\\source\\repos\\notificacionservicemicro\\notificationservice.domain\\interfaces\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A54D60-A49B-4444-9FF1-ECA0F1732DDF}|NotificationService.Domain\\NotificationService.Domain.csproj|solutionrelative:notificationservice.domain\\interfaces\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A54D60-A49B-4444-9FF1-ECA0F1732DDF}|NotificationService.Domain\\NotificationService.Domain.csproj|c:\\users\\fguerrero\\source\\repos\\notificacionservicemicro\\notificationservice.domain\\exceptions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A54D60-A49B-4444-9FF1-ECA0F1732DDF}|NotificationService.Domain\\NotificationService.Domain.csproj|solutionrelative:notificationservice.domain\\exceptions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A54D60-A49B-4444-9FF1-ECA0F1732DDF}|NotificationService.Domain\\NotificationService.Domain.csproj|c:\\users\\fguerrero\\source\\repos\\notificacionservicemicro\\notificationservice.domain\\events\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A54D60-A49B-4444-9FF1-ECA0F1732DDF}|NotificationService.Domain\\NotificationService.Domain.csproj|solutionrelative:notificationservice.domain\\events\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A54D60-A49B-4444-9FF1-ECA0F1732DDF}|NotificationService.Domain\\NotificationService.Domain.csproj|c:\\users\\fguerrero\\source\\repos\\notificacionservicemicro\\notificationservice.domain\\entitites\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A54D60-A49B-4444-9FF1-ECA0F1732DDF}|NotificationService.Domain\\NotificationService.Domain.csproj|solutionrelative:notificationservice.domain\\entitites\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4AF6A7-832B-4539-B065-80BB218C9936}|NotificationService.Application\\NotificationService.Application.csproj|c:\\users\\fguerrero\\source\\repos\\notificacionservicemicro\\notificationservice.application\\validators\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4AF6A7-832B-4539-B065-80BB218C9936}|NotificationService.Application\\NotificationService.Application.csproj|solutionrelative:notificationservice.application\\validators\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4AF6A7-832B-4539-B065-80BB218C9936}|NotificationService.Application\\NotificationService.Application.csproj|c:\\users\\fguerrero\\source\\repos\\notificacionservicemicro\\notificationservice.application\\usecases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4AF6A7-832B-4539-B065-80BB218C9936}|NotificationService.Application\\NotificationService.Application.csproj|solutionrelative:notificationservice.application\\usecases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4AF6A7-832B-4539-B065-80BB218C9936}|NotificationService.Application\\NotificationService.Application.csproj|c:\\users\\fguerrero\\source\\repos\\notificacionservicemicro\\notificationservice.application\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4AF6A7-832B-4539-B065-80BB218C9936}|NotificationService.Application\\NotificationService.Application.csproj|solutionrelative:notificationservice.application\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4AF6A7-832B-4539-B065-80BB218C9936}|NotificationService.Application\\NotificationService.Application.csproj|c:\\users\\fguerrero\\source\\repos\\notificacionservicemicro\\notificationservice.application\\dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4AF6A7-832B-4539-B065-80BB218C9936}|NotificationService.Application\\NotificationService.Application.csproj|solutionrelative:notificationservice.application\\dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 609,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +75,149 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Infraestructure\\Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "NotificationService.Infraestructure\\Persistence\\Class1.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Infraestructure\\Persistence\\Class1.cs",
+              "RelativeToolTip": "NotificationService.Infraestructure\\Persistence\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:55:39.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Infraestructure\\ExternalServices\\Class1.cs",
+              "RelativeDocumentMoniker": "NotificationService.Infraestructure\\ExternalServices\\Class1.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Infraestructure\\ExternalServices\\Class1.cs",
+              "RelativeToolTip": "NotificationService.Infraestructure\\ExternalServices\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:55:34.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Domain\\ValueObjects\\Class1.cs",
+              "RelativeDocumentMoniker": "NotificationService.Domain\\ValueObjects\\Class1.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Domain\\ValueObjects\\Class1.cs",
+              "RelativeToolTip": "NotificationService.Domain\\ValueObjects\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:55:28.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Domain\\Interfaces\\Class1.cs",
+              "RelativeDocumentMoniker": "NotificationService.Domain\\Interfaces\\Class1.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Domain\\Interfaces\\Class1.cs",
+              "RelativeToolTip": "NotificationService.Domain\\Interfaces\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:55:23.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Domain\\Exceptions\\Class1.cs",
+              "RelativeDocumentMoniker": "NotificationService.Domain\\Exceptions\\Class1.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Domain\\Exceptions\\Class1.cs",
+              "RelativeToolTip": "NotificationService.Domain\\Exceptions\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:55:18.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Domain\\Events\\Class1.cs",
+              "RelativeDocumentMoniker": "NotificationService.Domain\\Events\\Class1.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Domain\\Events\\Class1.cs",
+              "RelativeToolTip": "NotificationService.Domain\\Events\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:55:11.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Domain\\Entitites\\Class1.cs",
+              "RelativeDocumentMoniker": "NotificationService.Domain\\Entitites\\Class1.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Domain\\Entitites\\Class1.cs",
+              "RelativeToolTip": "NotificationService.Domain\\Entitites\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:55:06.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Application\\Validators\\Class1.cs",
+              "RelativeDocumentMoniker": "NotificationService.Application\\Validators\\Class1.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Application\\Validators\\Class1.cs",
+              "RelativeToolTip": "NotificationService.Application\\Validators\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:54:55.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Application\\UseCases\\Class1.cs",
+              "RelativeDocumentMoniker": "NotificationService.Application\\UseCases\\Class1.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Application\\UseCases\\Class1.cs",
+              "RelativeToolTip": "NotificationService.Application\\UseCases\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:54:51.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Application\\Services\\Class1.cs",
+              "RelativeDocumentMoniker": "NotificationService.Application\\Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Application\\Services\\Class1.cs",
+              "RelativeToolTip": "NotificationService.Application\\Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:54:07.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Application\\DTOs\\Class1.cs",
+              "RelativeDocumentMoniker": "NotificationService.Application\\DTOs\\Class1.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\NotificacionServiceMicro\\NotificationService.Application\\DTOs\\Class1.cs",
+              "RelativeToolTip": "NotificationService.Application\\DTOs\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:53:57.488Z",
+              "EditorCaption": ""
             }
           ]
         }

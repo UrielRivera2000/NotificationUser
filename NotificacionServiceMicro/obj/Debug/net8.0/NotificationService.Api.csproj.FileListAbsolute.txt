@@ -28,6 +28,7 @@ C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicr
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.Api.csproj.CoreCompileInputs.cache
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.Api.sourcelink.json
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\scopedcss\bundle\NotificationService.Api.styles.css
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\staticwebassets.development.json
@@ -38,10 +39,10 @@ C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicr
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NotificationService.Api.props
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NotificationService.Api.props
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\Notifica.E58820FC.Up2Date
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.Api.dll
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\refint\NotificationService.Api.dll
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.Api.pdb
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.Api.genruntimeconfig.cache
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\ref\NotificationService.Api.dll
-C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

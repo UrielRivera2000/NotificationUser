@@ -3,3 +3,8 @@
 2025-05-27 11:43:10,220 [1] INFO  Microsoft.Hosting.Lifetime [Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted:0] - Application started. Press Ctrl+C to shut down.
 2025-05-27 11:43:10,224 [1] INFO  Microsoft.Hosting.Lifetime [Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted:0] - Hosting environment: Development
 2025-05-27 11:43:10,228 [1] INFO  Microsoft.Hosting.Lifetime [System.Threading.CancellationTokenSource.Invoke:0] - Content root path: C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro
+2025-05-27 16:56:17,800 [1] INFO  Microsoft.Hosting.Lifetime [?.?:?] - Now listening on: https://localhost:7225
+2025-05-27 16:56:17,896 [1] INFO  Microsoft.Hosting.Lifetime [?.?:?] - Now listening on: http://localhost:5088
+2025-05-27 16:56:17,961 [1] INFO  Microsoft.Hosting.Lifetime [Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted:0] - Application started. Press Ctrl+C to shut down.
+2025-05-27 16:56:17,964 [1] INFO  Microsoft.Hosting.Lifetime [Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted:0] - Hosting environment: Development
+2025-05-27 16:56:17,964 [1] INFO  Microsoft.Hosting.Lifetime [System.Threading.CancellationTokenSource.Invoke:0] - Content root path: C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro

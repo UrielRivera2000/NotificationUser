@@ -5,6 +5,7 @@ C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Dom
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.AssemblyInfoInputs.cache
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.AssemblyInfo.cs
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.sourcelink.json
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.dll
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Domain\obj\Debug\net8.0\refint\NotificationService.Domain.dll
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.pdb

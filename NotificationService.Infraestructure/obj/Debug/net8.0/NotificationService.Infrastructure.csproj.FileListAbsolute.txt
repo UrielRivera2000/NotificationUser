@@ -8,6 +8,7 @@ C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Inf
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.AssemblyInfo.cs
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.sourcelink.json
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\Notifica.C5696791.Up2Date
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.dll
 C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\refint\NotificationService.Infrastructure.dll
