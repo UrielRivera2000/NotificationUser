@@ -1,0 +1,12 @@
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\bin\Debug\net8.0\NotificationService.Application.deps.json
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\bin\Debug\net8.0\NotificationService.Application.dll
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\bin\Debug\net8.0\NotificationService.Application.pdb
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.csproj.AssemblyReference.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.AssemblyInfoInputs.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.AssemblyInfo.cs
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.csproj.CoreCompileInputs.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.dll
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\obj\Debug\net8.0\refint\NotificationService.Application.dll
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.pdb
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Application\obj\Debug\net8.0\ref\NotificationService.Application.dll

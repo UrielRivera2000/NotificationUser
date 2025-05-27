@@ -1,0 +1,7 @@
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.csproj.AssemblyReference.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.AssemblyInfoInputs.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.AssemblyInfo.cs
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.csproj.CoreCompileInputs.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificacionServiceMicro\obj\Debug\net8.0\NotificationService.MvcApplicationPartsAssemblyInfo.cache

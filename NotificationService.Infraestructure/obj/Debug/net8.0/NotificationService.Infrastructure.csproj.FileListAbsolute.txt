@@ -1,0 +1,15 @@
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\bin\Debug\net8.0\NotificationService.Infrastructure.deps.json
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\bin\Debug\net8.0\NotificationService.Infrastructure.dll
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\bin\Debug\net8.0\NotificationService.Infrastructure.pdb
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\bin\Debug\net8.0\NotificationService.Application.dll
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\bin\Debug\net8.0\NotificationService.Application.pdb
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.AssemblyInfo.cs
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\Notifica.C5696791.Up2Date
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.dll
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\refint\NotificationService.Infrastructure.dll
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\NotificationService.Infrastructure.pdb
+C:\Users\fguerrero\source\repos\NotificacionServiceMicro\NotificationService.Infraestructure\obj\Debug\net8.0\ref\NotificationService.Infrastructure.dll
